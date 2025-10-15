@@ -2,7 +2,6 @@
 - 👀 I’m interested in reading books and running.
 - 🌱 I’m currently learning numerical computation.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me miyauchi.ha97@icloud.com
 
 <!---
 MIyauchi-Hiroaki/MIyauchi-Hiroaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
